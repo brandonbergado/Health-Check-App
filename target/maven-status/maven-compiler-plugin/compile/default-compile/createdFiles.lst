@@ -1,0 +1,5 @@
+com/example/restservice/Greeting.class
+com/example/restservice/Health.class
+com/example/restservice/RestServiceApplication.class
+com/example/restservice/HealthController.class
+com/example/restservice/GreetingController.class
